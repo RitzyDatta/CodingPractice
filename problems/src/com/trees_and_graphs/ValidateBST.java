@@ -105,7 +105,6 @@ public class ValidateBST {
 	
 
 	public static void main(String[] args) {
-		int arr[]=new int[20];
 		int num, temp;
 		Boolean bool;
 		ValidateBST obj = new ValidateBST();
